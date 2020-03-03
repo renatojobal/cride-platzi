@@ -76,3 +76,7 @@ you please just include the Copyright and the [**LICENSE**](LICENSE).
 
 - [Pablo Trinidad](https://github.com/pablotrinidad)
   | CS Student at UNAM's Faculty of Science | <pablotrinidad@ciencias.unam.mx>
+
+
+- [Renato Balcázar](https://github.com/renatojobal)
+  Student of Platzi
